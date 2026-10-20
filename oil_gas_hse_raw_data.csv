@@ -1,0 +1,303 @@
+Incident_ID,Incident_Date,Site,Department,Incident_Type,Severity,Activity,Primary_Cause,Body_Part_Affected,Lost_Work_Days,Shift,Contractor,Corrective_Action_Days,Status
+HSE-0224,2025-05-05,Onshore Base,Operations,Property Damage,Medium,Working at Height,Unsafe Act,N/A,0,Day,In-house,,Closed
+HSE-0058,2025-02-10,Gas Processing Plant,Security,First Aid,Low,Driving,Unsafe Condition,N/A,0,Day,Westline Engineering,19.0,Closed
+HSE-0264,2025-12-19,Offshore Platform B,Maintenance,near miss,Low,Confined Space Entry,Weather,N/A,0,Night,Westline Engineering,15.0,Closed
+HSE-0067,2026-04-13,Onshore Base,Security,Near Miss,Low,Material Handling,Unsafe Condition,N/A,0,Night,Nigerian Marine Support,42.0,open
+HSE-0115,2025-12-13,Offshore Platform A,Marine,Property Damage,Low,Housekeeping,Inadequate Training,N/A,0,Night,Delta Industrial Services,30.0,Open
+HSE-0183,,Gas Processing Plant,HSE,Near Miss,Low,Hot Work,Inadequate Training,N/A,0,Night,Prime Offshore Ltd,11.0,Open
+HSE-0209,2025-08-09,Onshore Base,Operations,Environmental Release,High,Lifting Operation,Weather,N/A,0,Night,In-house,6.0,Under Investigation
+HSE-0254,2025-07-31,Offshore Platform B,Security,First Aid,Low,Routine Inspection, Unknown ,Eye,0,Night,Nigerian Marine Support,39.0,Open
+HSE-0038,2025-11-24,Pipeline Operations,Operations,Near Miss,Low,Working at Height,Procedure Not Followed,N/A,0,Night,Westline Engineering,18.0,Closed
+HSE-0180,2026-09-10,Offshore Platform A,Logistics,Near Miss,Low,Lifting Operation,Equipment Failure,N/A,0,Night,Westline Engineering,21.0,Pending Corrective Action
+HSE-0082,2026-07-08,Offshore Platform B,Marine,Near Miss,Low,Routine Inspection,Unsafe Act,N/A,0,Night,In-house,2.0,Under Investigation
+HSE-0242,2025-06-24,Offshore Platform B,Operations,First Aid,Moderate, Equipment Maintenance ,Equipment Failure,Back,0,Night,Westline Engineering,6.0,Pending Corrective Action
+HSE-0272,2026-03-25,Pipeline Operations,Drilling,Property Damage,Low,Equipment Maintenance,Equipment Failure,N/A,0,Night,Westline Engineering,26.0,Pending Corrective Action
+HSE-0109,2026-04-06,PIPELINE OPERATIONS,Maintenance,PROPERTY DAMAGE,Low,Equipment Maintenance,Unsafe Act,N/A,0,Night,Delta Industrial Services,4.0,Pending Corrective Action
+HSE-0285,2026-05-31,Pipeline Operations,Security,Medical Treatment,High,Equipment Maintenance,Unknown,N/A,0,Day,In-house,14.0,Closed
+HSE-0256,2026-06-08,Offshore Platform B,HSE,Medical Treatment,High,Driving,Equipment Failure,Leg,0,Night,Delta Industrial Services,9.0,Closed
+HSE-0004, 2025-05-08 ,Gas Processing Plant,Operations,Medical treatment ,Medium,Hot Work,Weather,Hand,0,Night,Prime Offshore Ltd,6.0,Under Investigation
+HSE-0081,2025-09-07,Offshore Platform A,Marine,MEDICAL TREATMENT,Medium,Equipment Maintenance,Unknown,Leg,0,Day, Delta Industrial Services ,39.0,Open
+HSE-0300, 2026-09-24 ,Offshore Platform B,Maintenance,Near Miss,,Routine Inspection,Unknown,N/A,0,Day,Nigerian Marine Support,17.0,Open
+HSE-0182,2025-05-23,Offshore Platform B,Maintenance,Near Miss,Low,Material Handling,Inadequate Training,N/A,0,Night,Nigerian Marine Support,39.0,Pending Corrective Action
+HSE-0092,2026-03-11,Gas Processing Plant,HSE,First Aid,Low,Driving,Unsafe Act,Leg,0,Day,Delta Industrial Services,19.0,Pending Corrective Action
+HSE-0091,2026-04-10,Offshore Platform B,Maintenance,First Aid,Low,Hot Work,Unknown,Hand,0,Night,Westline Engineering,40.0,open
+HSE-0273,2026-05-05,Gas Processing Plant,Security,Property Damage,Low,Material Handling,Unsafe Condition,N/A,0,Night,Delta Industrial Services,27.0,Pending action
+HSE-0157,2026-09-05, Onshore Base ,Maintenance,Lost Time Injury,,Lifting Operation,Procedure Not Followed,Shoulder,33,Night,Delta Industrial Services,19.0,Under Investigation
+HSE-0075,2025-09-21,Gas Processing Plant,MARINE,Near Miss,Low, Hot Work ,Unknown,N/A,0,Night,In-house,15.0,Pending Corrective Action
+HSE-0295,2025-01-25,Gas Processing Plant,Security,First Aid,Low,Equipment Maintenance,Unsafe Condition,Leg,0,Night,Westline Engineering,37.0,Under Investigation
+HSE-0149,2026-04-22,Offshore Platform B,Maintenance,First Aid,Medium,Confined Space Entry,Inadequate Training,Eye,0,Day,Westline Engineering,24.0,Under Investigation
+HSE-0103,2025-03-25,Pipeline Operations,Security,Near Miss,Low,Hot Work,Equipment Failure,N/A,0,Night, Delta Industrial Services ,20.0,Pending Corrective Action
+HSE-0066,,Offshore Platform B,Security,First Aid,Low,Lifting Operation,Procedure Not Followed,N/A,0,Day,Nigerian Marine Support,4.0,Closed
+HSE-0105,2025-06-08,Onshore Base,Drilling,Property Damage,High,Equipment Maintenance,Weather,N/A,0,Day,Delta Industrial Services,39.0,Pending Corrective Action
+HSE-0089,2025-04-21,Offshore Platform B,Marine,Medical Treatment,Medium,Equipment Maintenance,Unknown,Back,0,Night,Prime Offshore Ltd,1.0,Closed
+HSE-0015,2025-07-14,Onshore Base,Operations,Medical Treatment,High,Hot Work,Procedure Not Followed,N/A,0,Night,Prime Offshore Ltd,42.0,Open
+HSE-0142,2025-12-21,Gas Processing Plant,Security,Near Miss,Low,Housekeeping,Unsafe Act,N/A,0,Day,,9.0,Open
+HSE-0162,05/01/2025,Gas Processing Plant,Maintenance,Lost Time Injury,High,Working at Height,,Leg,30,Night,Nigerian Marine Support,10.0,Closed
+HSE-0244,2026-07-09,Gas Processing Plant,Marine,Medical Treatment,High,Confined Space Entry,Unsafe Condition,Leg,0,Day,Westline Engineering,16.0,Pending action
+HSE-0154,2026-04-29,Onshore Base,Drilling,First Aid,Medium,Material Handling,Unknown,Hand,0,Day,Prime Offshore Ltd,25.0,Pending Corrective Action
+HSE-0003,12-Oct-2025,Offshore Platform A,Maintenance,Environmental Release,High, Hot Work ,Unsafe Condition,N/A,0,Night,Nigerian Marine Support,,Closed
+HSE-0173,2025-05-24,Onshore Base,HSE,Lost Time Injury,High,Hot Work,Unsafe Condition,Shoulder,22,Day,Prime Offshore Ltd,39.0,Pending Corrective Action
+HSE-0056,2026-10-03,PIPELINE OPERATIONS,Security,Property Damage,High,Working at Height,Procedure Not Followed,N/A,0,Day,In-house,18.0,Under Investigation
+HSE-0270,2025-04-24,Pipeline Operations,Security,First Aid,Low,Equipment Maintenance,Unknown,N/A,0,Day,In-house,9.0,Closed
+HSE-0283,2025-04-17,GAS PROCESSING PLANT,Security,Medical Treatment,High,Hot Work,Weather,Back,0,Day,Westline Engineering,15.0,Closed
+HSE-0243,2026-01-14,Offshore Platform A,Logistics,Near Miss,Low,Housekeeping,Procedure Not Followed,N/A,0,Day,Prime Offshore Ltd,10.0,Open
+HSE-0169,2025-10-01,Gas Processing Plant,Operations,First Aid,,Lifting Operation,Procedure Not Followed,Hand,0,Night,Westline Engineering,42.0,Open
+HSE-0114,2026-01-18,Offshore Platform B,Security,Near Miss,Low, Equipment Maintenance ,Equipment Failure,N/A,0,Night,Nigerian Marine Support,,Open
+HSE-0102,2025-12-13,Pipeline Operations,Operations,Property Damage,High,Hot Work,Unsafe Condition,N/A,0,Day,Prime Offshore Ltd,20.0,Closed
+HSE-0246,2025-03-22, Gas Processing Plant ,Maintenance,ENVIRONMENTAL RELEASE,Medium,Material Handling,Unknown,N/A,0,Night,Nigerian Marine Support,6.0,Pending Corrective Action
+HSE-0139,2026-02-25,Pipeline Operations,Marine,Medical Treatment,Medium,Housekeeping,Unknown,Multiple,0,Night,Delta Industrial Services,43.0,Pending Corrective Action
+HSE-0165,2025-12-12,Offshore Platform B,Marine,Property Damage,Low,Housekeeping,Procedure Not Followed,N/A,0,Day,Nigerian Marine Support,35.0,Pending Corrective Action
+HSE-0061,19-Apr-2026,Gas Processing Plant,Operations,near miss,Low,Hot Work,Weather,N/A,0,Night,Westline Engineering,18.0,Investigation
+HSE-0203,2025-08-07,Gas Processing Plant,Operations,Near Miss,Low,Working at Height,Weather,N/A,0,Day, Westline Engineering ,8.0,Pending Corrective Action
+HSE-0019,2025-03-01,pipeline operations,Security,Medical Treatment,High,Hot Work, Unsafe Condition ,Hand,5,Day,Delta Industrial Services,6.0,Under Investigation
+HSE-0262,2025-11-17,Onshore Base,Operations,First Aid,low,Working at Height, Unknown ,Multiple,0,Night,Westline Engineering,9.0,Pending Corrective Action
+HSE-0071,2026-07-14,Offshore Platform A,Operations,First Aid,Medium,Hot Work,Weather,Multiple,0,Night,In-house,7.0,Closed
+HSE-0223,2026-06-10,Onshore Base,Security,Near Miss,Low, Material Handling ,Unsafe Condition,N/A,0,Day,Delta Industrial Services,7.0,Pending Corrective Action
+HSE-0250,,Offshore platform b,SECURITY,first aid,Medium,Hot Work,Equipment Failure,N/A,0,Night,In-house,14.0,Pending Corrective Action
+HSE-0172,2025-01-17,Offshore Platform A,HSE,Near Miss,Low,Lifting Operation,Unsafe Condition,N/A,0,Night,Westline Engineering,37.0,Pending Corrective Action
+HSE-0189,2025-07-21,Gas Processing Plant,Operations,Near Miss,Low,Housekeeping,Weather,N/A,0,Night,Prime Offshore Ltd,38.0,Open
+HSE-0229,2026-04-29,pipeline operations,Drilling,Property Damage,High,Working at Height,Unsafe Act,N/A,0,Day,Nigerian Marine Support,18.0,Open
+HSE-0247,2025-11-30,Offshore Platform B,HSE, First Aid ,medium,Routine Inspection,Unknown,Hand,0,Day,Prime Offshore Ltd,10.0,OPEN
+HSE-0146, 2026-06-01 ,Gas Processing Plant,,Near Miss,Minor,Equipment Maintenance,Equipment Failure,N/A,0,Night,Prime Offshore Ltd,12.0,Open
+HSE-0023,2025-05-18,Offshore Platform B,Operations,Property Damage,High,Confined Space Entry,Unsafe Act,N/A,0,Night,Nigerian Marine Support,22.0,Under Investigation
+HSE-0175,2026-01-25,Offshore Platform A,Security,First Aid,Low,Hot Work,Unsafe Condition,Back,-3,Day,Delta Industrial Services,4.0,Closed
+HSE-0267, 2026-03-03 ,Gas Processing Plant,Logistics,Near Miss,Low, Driving ,Procedure Not Followed,N/A,0,Day,Nigerian Marine Support,20.0,Pending Corrective Action
+HSE-0287,2025-04-15,Pipeline Operations,Marine,Medical Treatment,High,Confined Space Entry,Unknown,Multiple,0,Night,Prime Offshore Ltd,4.0,Pending Corrective Action
+HSE-0133,2025-10-16,Gas Processing Plant,HSE,Property Damage,Medium,Housekeeping,Equipment Failure,N/A,0,Night,In-house,13.0,Closed
+HSE-0238,2026-05-06,Pipeline Operations,Security,Lost Time Injury,High,Working at Height,Unsafe Act,Hand,2,Night,Delta Industrial Services,4.0,Closed
+HSE-0191,2025-05-25,Pipeline Operations,Logistics,First Aid,Medium,Material Handling,Weather,Back,0,Night,Prime Offshore Ltd,41.0,Under Investigation
+HSE-0095,2026-08-13,Gas Processing Plant,HSE,First Aid,Low,Lifting Operation,Equipment Failure,Shoulder,0,Day,Westline Engineering,11.0,Pending Corrective Action
+HSE-0119,2025-10-30,Offshore Platform B,LOGISTICS,Medical Treatment,High,Lifting Operation, Unsafe Act ,Leg,0,Day,In-house,23.0,Pending Corrective Action
+HSE-0087,2025-06-06,Gas Processing Plant,Operations,Near Miss,Low,Equipment Maintenance,,N/A,0,Night,In-house,9.0,Open
+HSE-0290,2025-09-19,Onshore Base,DRILLING,First Aid,Low,Material Handling,,Shoulder,0,Day,Prime Offshore Ltd,16.0,Closed
+HSE-0268,04-Oct-2025,Pipeline Operations,HSE,Lost Time Injury,High,Lifting Operation,Unknown,Eye,7,Night,Nigerian Marine Support,32.0,Under investigation 
+HSE-0112,2025-02-18,Offshore Platform A,Logistics,Medical Treatment,High,Housekeeping,Unsafe Condition,Back,0,Night,Westline Engineering,37.0,Under Investigation
+HSE-0174,2026-04-07,Gas Processing Plant,Maintenance,First Aid,Low,Lifting Operation,Procedure Not Followed,Hand,0,Night,Delta Industrial Services,16.0,Open
+HSE-0085,2025-11-26,Pipeline Operations,Maintenance,near miss,Low,Driving,Weather,N/A,0,Day,In-house,30.0,Pending Corrective Action
+HSE-0227,2026-02-26,Pipeline Operations,Logistics,Near Miss,Low,Driving,Procedure Not Followed,N/A,0,Night,Prime Offshore Ltd,41.0,Open
+HSE-0025,2026-03-14,Pipeline Operations,Operations,Near Miss,Low,Material Handling,Weather,N/A,0,Day,Prime Offshore Ltd,28.0,Under Investigation
+HSE-0127,2025-06-15,Offshore Platform B,Security,Near Miss,Low,Confined Space Entry,Equipment Failure,N/A,0,Day,Nigerian Marine Support,,Closed
+HSE-0063,2025-04-27,Gas Processing Plant,Operations,Medical Treatment,High,Material Handling,Procedure Not Followed,Back,0,Night,Delta Industrial Services,16.0,Pending Corrective Action
+HSE-0265,2025-05-18,Offshore Platform B,Logistics,First Aid,Medium,Working at Height, Unsafe Act ,N/A,0,Day,In-house,9.0,Under Investigation
+HSE-0079,2026-05-17,Pipeline Operations,Logistics,Environmental Release,,Driving,Unsafe Condition,N/A,0,Night,Nigerian Marine Support,4.0,Closed
+HSE-0100,2026-08-18,Pipeline Operations,,Lost Time Injury,High,Routine Inspection, Procedure Not Followed ,N/A,33,Day,Prime Offshore Ltd,10.0,Open
+HSE-0051,2026-01-05,Offshore Platform A,Drilling,Near Miss,Low,Confined Space Entry,Unsafe Act,N/A,0,Night,In-house,45.0,Under Investigation
+HSE-0126,2025-12-19,Offshore Platform A,Marine,Property Damage,High,Material Handling,Unknown,N/A,0,Night,Delta Industrial Services,8.0,Under Investigation
+HSE-0185,2026-05-10,Onshore Base,DRILLING,First Aid,Low,Equipment Maintenance,Unsafe Condition,N/A,0,Night,,30.0,Under Investigation
+HSE-0279,12/16/2025,Offshore platform b,Marine,Near Miss,Low,Working at Height,Unknown,N/A,0,Day,In-house,15.0,Closed
+HSE-0062,2026-05-12,Onshore Base,Operations,Environmental Release,Medium,Working at Height,Inadequate Training,N/A,0,Day,Delta Industrial Services,36.0,Pending Corrective Action
+HSE-0211,2025-09-08,Onshore Base,Logistics,Near Miss, LOW ,Routine Inspection,Equipment Failure,N/A,0,Day,Westline Engineering,45.0,Open
+HSE-0291,2026-06-23,Offshore Platform A,Maintenance,First Aid,Medium,Confined Space Entry,,Shoulder,0,Night,Prime Offshore Ltd,15.0,Under Investigation
+HSE-0070,2025-06-29,Onshore Base,HSE,Property Damage,Medium,Working at Height,Procedure Not Followed,N/A,0,Night,Prime Offshore Ltd,1.0,Closed
+HSE-0037,2026-04-06,Offshore Platform B,Marine,Near Miss,Low,Driving,Unknown,N/A,0,Night,Prime Offshore Ltd,8.0,Closed
+HSE-0041,2026-03-15,Offshore Platform A,Marine,First Aid,Medium, Routine Inspection ,Equipment Failure,Leg,0,Night,Prime Offshore Ltd,13.0,Closed
+HSE-0240,2025-04-14,Offshore Platform B,Maintenance,Environmental Release,Medium,Lifting Operation,Inadequate Training,N/A,0,Night,Nigerian Marine Support,7.0,Open
+HSE-0012,2025-05-09,Offshore Platform A,Security,First Aid,Medium,Confined Space Entry,Unsafe Act,Shoulder,0,Night,Nigerian Marine Support,20.0,Pending Corrective Action
+HSE-0233,2025-05-26,Onshore Base, Marine ,First Aid,Medium,Hot Work,Unsafe Condition,Back,0,Day,Westline Engineering,11.0,Closed
+HSE-0239,2026-01-20,Offshore Platform A,Security,Near Miss,Low,Equipment Maintenance,Equipment Failure,N/A,0,Day,In-house,39.0,Pending Corrective Action
+HSE-0194,2026-04-14,Pipeline Operations,Security,Property Damage,Medium,Housekeeping,Weather,N/A,0,Night,Nigerian Marine Support,35.0,Open
+HSE-0155,2025-05-02,Offshore Platform A,HSE,First Aid,Low,Material Handling,Inadequate Training,Multiple,0,Day,Delta Industrial Services,30.0,Pending Corrective Action
+HSE-0161,2026-01-22,Pipeline Operations,HSE,Near Miss,Low,Equipment Maintenance,Unsafe Act,N/A,0,Day,Delta Industrial Services,,Open
+HSE-0099,2026-08-29,Onshore Base,Drilling,First Aid,Medium,Driving,Procedure Not Followed,Hand,0,Night,Westline Engineering,19.0,Open
+HSE-0164,2025-01-17,Offshore Platform B,HSE,Environmental Release,Medium,Lifting Operation,Equipment Failure,N/A,0,Night,Nigerian Marine Support,25.0,Under Investigation
+HSE-0047,2025-09-07,Gas Processing Plant,HSE,Medical Treatment,High, Lifting Operation ,Equipment Failure,Leg,0,Night, Nigerian Marine Support ,11.0,Closed
+HSE-0188,2025-07-22,Gas Processing Plant,HSE,First Aid,Low,Routine Inspection,Inadequate Training,Back,0,Night,Prime Offshore Ltd,37.0,Open
+HSE-0116,2025-02-14,Offshore Platform A,Operations,Near Miss,Low,Driving,Weather,N/A,0,Night,Prime Offshore Ltd,42.0,Under Investigation
+HSE-0245,2025-02-05,Pipeline Operations,HSE,Property Damage,Low,Material Handling,Unsafe Condition,N/A,0,Day,Westline Engineering,13.0,Under Investigation
+HSE-0130,28-Jul-2025,Offshore Platform B,HSE,Near Miss,Low,Hot Work,Inadequate Training,N/A,0,Night,Delta Industrial Services,33.0,Open
+HSE-0297,2026-05-30,ONSHORE BASE,Drilling,Property Damage,Medium,Driving,Weather,N/A,0,Night,Delta Industrial Services,26.0,Open
+HSE-0129,2025-02-01,Gas Processing Plant,Security,Medical Treatment,High,Driving,Procedure Not Followed,Multiple,1,Night,Westline Engineering,11.0,Pending Corrective Action
+HSE-0289,2025-07-01,Onshore Base,Maintenance,Environmental Release,high,Confined Space Entry,Unsafe Condition,N/A,0,Day,Nigerian Marine Support,5.0,Closed
+HSE-0016,2025-04-22,offshore platform a,Maintenance,Near Miss,Low,Housekeeping,Unsafe Act,N/A,0,Night,Nigerian Marine Support,16.0,Open
+HSE-0008,2026-05-21,Onshore Base,Marine,Near Miss,Low,Equipment Maintenance,Unsafe Act,N/A,0,Night, Nigerian Marine Support ,25.0,Pending Corrective Action
+HSE-0263,2026-05-04,Gas Processing Plant,Operations,Near Miss,Critical,Working at Height,Inadequate Training,N/A,0,Day,Delta Industrial Services,2.0,Open
+HSE-0140,2026-04-16,Pipeline Operations,Drilling,Medical Treatment,Medium,Driving,Weather,Eye,0,Night,Prime Offshore Ltd,10.0,Closed
+HSE-0277,2025-12-05,Offshore platform b,Operations,First Aid,Medium,Confined Space Entry,Inadequate Training,N/A,0,Day,Westline Engineering,30.0,Pending action
+HSE-0235,2026-02-05,Pipeline Operations,Operations,Near Miss,Low,Hot Work,Unknown,N/A,0,Day,Prime Offshore Ltd,22.0,Open
+HSE-0017,2025-04-11,Onshore Base,Security,Environmental Release,High,Routine Inspection,Unsafe Condition,N/A,0,Night,In-house,31.0,Under Investigation
+HSE-0090,2025-12-14, offshore Platform B,Operations,Near Miss,Low,Material Handling, Weather ,N/A,0,Night,Westline Engineering,6.0,Under Investigation
+HSE-0195,2025-08-12,Gas Processing Plant,Operations,Lost Time Injury,High,Working at Height,Equipment Failure,Eye,6,Day,Nigerian Marine Support,29.0,Open
+HSE-0098,2026-08-17,Gas Processing Plant,Security,Environmental Release,Medium,Hot Work,Unknown,N/A,0,Night,Prime Offshore Ltd,31.0,Pending Corrective Action
+HSE-0009,2025-09-15,Pipeline Operations,Marine,Environmental Release,High,Equipment Maintenance,Inadequate Training,N/A,0,Night,In-house,28.0,Under Investigation
+HSE-0029,2025-10-13,Onshore Base,Marine,Near Miss,Low,Confined Space Entry,Procedure Not Followed,N/A,0,Day,Nigerian Marine Support,2.0,Closed
+HSE-0028,2026-04-27,Offshore Platform A,Maintenance,Property Damage,Low,Housekeeping,Equipment Failure,N/A,0,Night,Prime Offshore Ltd,43.0,Under Investigation
+HSE-0123,2025-03-17,Gas Processing Plant,Maintenance,Property Damage,High,Housekeeping,Unsafe Condition,N/A,0,Day, Delta Industrial Services ,10.0,Closed
+HSE-0053,2026-08-14,Onshore Base,MAINTENANCE,Near Miss,Low,Driving,Unsafe Condition,N/A,0,Night,Westline Engineering,39.0,Under Investigation
+HSE-0266,2026-01-11,Onshore Base,LOGISTICS,Property Damage,High,Driving, Unknown ,N/A,0,Day, In-house ,42.0,Open
+HSE-0059,2026-06-16,Gas Processing Plant,Drilling,near miss,Low,Lifting Operation,Inadequate Training,N/A,0,Day,Delta Industrial Services,11.0,Closed
+HSE-0148,2025-01-07,Offshore Platform B,Logistics,Near Miss,Low,Driving,Equipment Failure,N/A,0,Day,In-house,45.0,Under Investigation
+HSE-0278,2026-04-03,Offshore Platform B,Operations,Environmental Release,Medium,Routine Inspection,Unsafe Condition,N/A,0,Day,Westline Engineering,17.0,Closed
+HSE-0282,2025-05-07,Gas Processing Plant,Logistics,Medical Treatment,Medium,Confined Space Entry,Unsafe Act,Back,0,Day,Delta Industrial Services,28.0,Pending Corrective Action
+HSE-0218,2025-01-02,Gas Processing Plant,Marine,Lost Time Injury,High,Driving,Unsafe Condition,N/A,4,Day,Nigerian Marine Support,3.0,Closed
+HSE-0032,2025-12-01,Gas Processing Plant,Security,Near Miss,Low,Material Handling,Unsafe Act,N/A,0,Day,Prime Offshore Ltd,13.0,Closed
+HSE-0002,2025-08-27,Pipeline Operations,HSE,Near Miss,Low,Working at Height,Inadequate Training,N/A,0,Night,Prime Offshore Ltd,1.0,Under Investigation
+HSE-0208,2025-11-21,offshore platform a,Logistics,Property Damage , LOW ,Lifting Operation,Equipment Failure,N/A,0,Day, Prime Offshore Ltd ,38.0,Open
+HSE-0014,2025-02-02,Offshore Platform B,Operations,First Aid,Medium,Driving,Inadequate Training,Eye,0,Night,Westline Engineering,37.0,Pending Corrective Action
+HSE-0010,2025-09-27,pipeline operations,Marine,Near Miss,Minor,Equipment Maintenance,Unknown,N/A,0,Night,Westline Engineering,11.0,Open
+HSE-0280,2025-08-16,Onshore Base,Drilling,First Aid,Medium,Driving,Weather,Multiple,0,Day,Prime Offshore Ltd,32.0,Under Investigation
+HSE-0096,2025-04-19,Offshore Platform A,Logistics,medical treatment,High,Confined Space Entry,Unsafe Condition,Hand,0,Day,Prime Offshore Ltd,11.0,Open
+HSE-0035,2026-03-01,Pipeline Operations,Maintenance,Lost Time Injury,High,Lifting Operation,Procedure Not Followed,Back,7,Night,In-house,28.0,Under Investigation
+HSE-0097,12/26/2025,Offshore Platform A,Maintenance,Near Miss,Low,Driving,Unsafe Act,N/A,0,Night,Nigerian Marine Support,12.0,Pending Corrective Action
+HSE-0293,2025-04-27,Gas Processing Plant,Drilling,Medical Treatment,High,Driving,Unsafe Condition,Shoulder,0,Day,In-house,42.0,Under Investigation
+HSE-0177,2026-02-02,Onshore Base,Security,PROPERTY DAMAGE,Low,Working at Height,Weather,N/A,0,Night,Delta Industrial Services,9.0,Closed
+HSE-0151,2026-08-01,Onshore Base,Operations,Property Damage,Medium,Confined Space Entry,Unsafe Act,N/A,0,Night,In-house,8.0,Under Investigation
+HSE-0275,11/18/2025,Onshore Base,Security,Property Damage,High,Confined Space Entry,Unknown,N/A,0,Night,Prime Offshore Ltd,28.0,Under Investigation
+HSE-0281,2026-09-18,Offshore Platform A,Maintenance,Near Miss,Low,Lifting Operation,Unsafe Act,N/A,0,Day,Nigerian Marine Support,7.0,Pending Corrective Action
+HSE-0046,2026-03-22,Offshore Platform A,Security,First Aid,Medium, Driving ,Weather,Hand,0,Night,Westline Engineering,21.0,Under Investigation
+HSE-0200,2026-07-02,Gas Processing Plant,Maintenance,Environmental Release,High,Working at Height,Procedure Not Followed,N/A,0,Night,Prime Offshore Ltd,36.0,Under Investigation
+HSE-0033,2025-10-21,Offshore Platform A,LOGISTICS,Property Damage,High, Hot Work ,Procedure Not Followed,N/A,0,Day,In-house,33.0,Pending Corrective Action
+HSE-0078,2025-11-08,Gas Processing Plant,Operations,Near Miss,Low,Confined Space Entry,Unsafe Act,N/A,0,Night,In-house,38.0,Under Investigation
+HSE-0292,2025-10-28,Offshore Platform A,Marine,Medical Treatment,Medium,Housekeeping,Weather,N/A,0,Night,Westline Engineering,42.0,Under Investigation
+HSE-0134,15/02/2026, Onshore Base ,HSE,Medical Treatment,Medium,Hot Work,Weather,Back,0,Day,Westline Engineering,18.0,Open
+HSE-0145,2026-02-11,Gas Processing Plant,Maintenance,Environmental Release,Medium,Driving,Unsafe Condition,N/A,0,Night,Delta Industrial Services,15.0,Closed
+HSE-0064,2026-09-06,Pipeline Operations,Security,Property Damage,High,Equipment Maintenance,Equipment Failure,N/A,0,Night,Delta Industrial Services,10.0,Closed
+HSE-0083,2025-05-10,Gas Processing Plant,HSE,Near Miss,Low,Equipment Maintenance,Procedure Not Followed,N/A,0,Day,Nigerian Marine Support,29.0,Under Investigation
+HSE-0271,2025-06-28,Onshore Base,Marine,Near Miss,Low,Hot Work,Procedure Not Followed,N/A,0,Night,Prime Offshore Ltd,9.0,Under Investigation
+HSE-0213,2025-10-06,Pipeline Operations,Operations,near miss,Low,Equipment Maintenance,Procedure Not Followed,N/A,0,Night,Delta Industrial Services,37.0,Under Investigation
+HSE-0221,2026-08-22,Onshore Base,Maintenance,Near Miss,Low,Housekeeping,Procedure Not Followed,N/A,0,Night,Westline Engineering,14.0,Pending action
+HSE-0042,2025-03-25,Gas processing plant,Operations,Lost Time Injury,High,Routine Inspection,Equipment Failure,N/A,2,Day,Delta Industrial Services,16.0,Under Investigation
+HSE-0215,2026-03-06,Offshore Platform A,Drilling,Near Miss,Low,Hot Work,Equipment Failure,N/A,0,Day,Westline Engineering,12.0,Investigation
+HSE-0110,2026-01-31,Onshore Base,Drilling,Near Miss,Low,Hot Work,Unsafe Condition,N/A,0,Day,Westline Engineering,19.0,Pending Corrective Action
+HSE-0171,2025-02-13,Offshore Platform A,Maintenance,Property Damage,High,Housekeeping,Equipment Failure,N/A,0,Day,Prime Offshore Ltd,35.0,Open
+HSE-0207,2026-09-14,Pipeline Operations,Maintenance,Lost Time Injury,High,Driving,Inadequate Training,Hand,8,Day,Prime Offshore Ltd,16.0,Pending Corrective Action
+HSE-0122,2025-07-10,Gas Processing Plant,HSE,First Aid,Medium,Confined Space Entry,Unsafe Condition,Eye,0,Day,Delta Industrial Services,16.0,Closed
+HSE-0052,2025-01-13,Pipeline Operations,,First Aid,Low,Housekeeping,Equipment Failure,Multiple,0,Night,In-house,8.0,Open
+HSE-0057,2025-06-19,Offshore Platform B,HSE,Lost Time Injury,High,Driving,Procedure Not Followed,N/A,26,Day,Nigerian Marine Support,18.0,Pending Corrective Action
+HSE-0249,2026-02-10,Offshore Platform B,,Near Miss,Low,Housekeeping,Equipment Failure,N/A,0,Day,Delta Industrial Services,16.0,Closed
+HSE-0159,2026-01-26,Pipeline Operations,Drilling,Lost Time Injury,High,Lifting Operation,Unsafe Act,N/A,16,Day,Nigerian Marine Support,5.0,Closed
+HSE-0086,2026-07-19,Offshore Platform A,Logistics,First Aid,Medium,Working at Height,Procedure Not Followed,Shoulder,0,Night,Prime Offshore Ltd,14.0,Closed
+HSE-0121,,Pipeline Operations,Operations,Medical Treatment,High,Housekeeping,Equipment Failure,Eye,0,Day,In-house,9.0,Closed
+HSE-0286,2026-01-26,Offshore Platform A,Operations,Medical Treatment,High,Working at Height,Equipment Failure,N/A,0,Night,Westline Engineering,7.0,Closed
+HSE-0288,2026-07-20,Onshore Base,Operations,Lost Time Injury,High,Working at Height,Weather,Eye,35,Night,Westline Engineering,39.0,Under Investigation
+HSE-0178,2025-03-06,Offshore Platform A,Logistics,Near Miss,Low,Driving,Procedure Not Followed,N/A,0,Day,Westline Engineering,41.0,Pending Corrective Action
+HSE-0217, 2025-09-06 ,Gas Processing Plant,Drilling,Medical Treatment,Medium,Housekeeping,Unknown,Shoulder,0,Day,Prime Offshore Ltd,2.0,Under Investigation
+HSE-0198,2025-05-30,Offshore Platform B,Marine,Near Miss,Low,Lifting Operation,Procedure Not Followed,N/A,0,Day,In-house,25.0,Pending Corrective Action
+HSE-0088,2026-02-25,Offshore Platform B,Marine,Medical Treatment,high,Lifting Operation,Unknown,Back,0,Night,Delta Industrial Services,37.0,Under Investigation
+HSE-0166,2025-03-02,Pipeline Operations,operations,Property Damage,Medium,Equipment Maintenance,Unknown,N/A,0,Day,Delta Industrial Services,41.0,Under Investigation
+HSE-0048,2025-01-11,Pipeline Operations,Maintenance,Near Miss,Low,Lifting Operation,Procedure Not Followed,N/A,0,Day,Prime Offshore Ltd,29.0,OPEN
+HSE-0106,05/07/2025,Pipeline Operations, Marine ,Property Damage,High,Housekeeping,Unsafe Condition,N/A,0,Day,Nigerian Marine Support,15.0,Closed
+HSE-0228,2026-05-07,Pipeline Operations,Marine,First Aid,Medium,Confined Space Entry,Equipment Failure,N/A,0,Night,In-house,21.0,Under Investigation
+HSE-0050,2025-09-15,Offshore Platform A,Operations,Lost Time Injury,High,Hot Work,Unsafe Condition,Eye,18,Night,Delta Industrial Services,4.0, Closed 
+HSE-0298,2026-07-01,OFFSHORE PLATFORM A,Maintenance,Lost Time Injury,High,Confined Space Entry,Equipment Failure,Hand,1,Day,In-house,36.0,Under Investigation
+HSE-0006,2025-10-04,Pipeline Operations,Maintenance,Lost Time Injury,High,Routine Inspection, Unsafe Act ,N/A,5,Night,Westline Engineering,7.0,Closed
+HSE-0018,2025-06-18,Gas Processing Plant,Operations,Environmental Release,High,Driving, Unknown ,N/A,0,Night,Delta Industrial Services,10.0,Under Investigation
+HSE-0231,2026-08-01,Offshore Platform A,,Environmental Release,Medium,Housekeeping,Weather,N/A,0,Day,Nigerian Marine Support,6.0,Open
+HSE-0117,2025-02-18,Offshore Platform B,Drilling,Near Miss,Low,Hot Work,Procedure Not Followed,N/A,0,Night,Prime Offshore Ltd,12.0,Pending Corrective Action
+HSE-0226,2025-01-31,Gas Processing Plant,Security,first aid,Low,Hot Work,Unsafe Act,Eye,0,Night,Westline Engineering,10.0,Open
+HSE-0107,2025-09-02,Offshore Platform B,Marine,Property Damage,Medium,Working at Height,Equipment Failure,N/A,0,Day,Delta Industrial Services,33.0,Pending Corrective Action
+HSE-0163,2026-05-25,Gas Processing Plant,,Property Damage,Medium,Housekeeping,Unknown,N/A,0,Day,Delta Industrial Services,27.0,Open
+HSE-0135,2026-01-18, offshore Platform B,HSE,Environmental Release,Medium, Material Handling ,Unsafe Act,N/A,0,Night,Delta Industrial Services,16.0,Closed
+HSE-0232,2025-08-13,Onshore Base,HSE,First Aid,Low,Hot Work,Weather,N/A,0,Day,Nigerian Marine Support,21.0,Open
+HSE-0065,2026-04-03,Pipeline Operations,Logistics,First Aid,Medium,Confined Space Entry,Unknown,Multiple,0,Day,Westline Engineering,45.0,Under Investigation
+HSE-0027,2025-07-01,Gas Processing Plant,Operations,Near Miss,Low,Hot Work,Unknown,N/A,0,Night,In-house,45.0,Open
+HSE-0236,2025-11-24,Offshore Platform A,Security,Property Damage,Low,Equipment Maintenance,Unknown,N/A,0,Day,Prime Offshore Ltd,14.0,Under Investigation
+HSE-0170,,Pipeline Operations,Logistics,Near miss ,Low,Routine Inspection,Inadequate Training,N/A,0,Day,,19.0,Closed
+HSE-0181,2026-01-09,Onshore Base,HSE,near miss,Low,Confined Space Entry,Unsafe Act,N/A,0,Night, Westline Engineering ,3.0,Closed
+HSE-0101,2025-03-28,pipeline operations,Security,Near Miss,Low,Working at Height,Inadequate Training,N/A,0,Night,Westline Engineering,10.0,Closed
+HSE-0136,2026-09-13,Pipeline Operations,maintenance,First Aid,Medium,Hot Work,Unsafe Act,Leg,0,Night,In-house,33.0,Pending Corrective Action
+HSE-0284,2026-09-09,Pipeline Operations,Drilling,Property Damage,Low,Confined Space Entry,Unknown,N/A,0,Day,Delta Industrial Services,12.0,Closed
+HSE-0260,2025-12-06,OFFSHORE PLATFORM B,Drilling,Medical Treatment,High,Housekeeping,Unknown,Multiple,0,Night,Westline Engineering,13.0,Open
+HSE-0199,2026-02-17,Pipeline Operations,security,Near Miss,Low,Hot Work,Procedure Not Followed,N/A,0,Night,In-house,6.0,Pending Corrective Action
+HSE-0118,2026-06-16,Offshore Platform B,Marine,NEAR-MISS,Low,Lifting Operation,Unsafe Condition,N/A,0,Day,Prime Offshore Ltd,21.0,Open
+HSE-0167,2025-01-10,Offshore Platform A,HSE,First Aid,Medium,Routine Inspection,Weather,N/A,0,Day,Nigerian Marine Support,35.0,Pending Corrective Action
+HSE-0214,2025-09-19,Onshore Base,HSE,Medical Treatment,Medium,Equipment Maintenance,Unsafe Act,Back,3,Day,Nigerian Marine Support,25.0,Under Investigation
+HSE-0137,2026-01-13,Offshore Platform B,Security,Near Miss,Low,Lifting Operation,Weather,N/A,0,Day,Nigerian Marine Support,17.0,Under Investigation
+HSE-0030,2026-03-21,Offshore Platform B,Security,Property Damage,High,Lifting Operation, Weather ,N/A,0,Night,In-house,17.0,Open
+HSE-0080,03/01/2026,Onshore Base,Logistics,Near Miss,Low,Equipment Maintenance,Unknown,N/A,0,Day,Prime Offshore Ltd,42.0,Open
+HSE-0205,2026-06-28,Pipeline Operations,Operations,Medical Treatment,Medium,Material Handling,Procedure Not Followed,Eye,0,Day, In-house ,40.0,Pending Corrective Action
+HSE-0141,2026-05-07,Offshore Platform B,HSE,Environmental Release,High,Driving,Equipment Failure,N/A,0,Night,In-house,2.0,Closed
+HSE-0158,2025-11-06,Offshore Platform A,Security,First Aid,Medium,Lifting Operation,Equipment Failure,N/A,0,Day,Prime Offshore Ltd,41.0,Pending Corrective Action
+HSE-0132, 2025-06-13 ,Gas Processing Plant,HSE,Near misss,Low,Driving,Procedure Not Followed,Shoulder,0,Day,In-house,16.0,Under Investigation
+HSE-0040,2025-08-13, offshore Platform B,Logistics, First Aid ,Medium,Lifting Operation,Equipment Failure,Multiple,0,Day,In-house,40.0,Open
+HSE-0241,2026-07-17,Gas Processing Plant,MAINTENANCE,Near Miss,Low,Routine Inspection,Procedure Not Followed,N/A,0,Day,Delta Industrial Services,13.0,Open
+HSE-0206,2025-05-24,Onshore Base,HSE,Lost Time Injury,High, Hot Work ,Procedure Not Followed,Leg,6,Day,Nigerian Marine Support,1.0,Closed
+HSE-0216,2025-03-12,Gas Processing Plant,Marine,Near Miss,Low,Driving,Equipment Failure,N/A,0,Night,Nigerian Marine Support,19.0, Closed 
+HSE-0055,03/18/2025,Offshore Platform A,Operations,First Aid,Low,Housekeeping,Equipment Failure,Hand,0,Day,Prime Offshore Ltd,45.0,Pending Corrective Action
+HSE-0201,2025-02-19,Onshore Base,Operations,Medical Treatment,Medium,Housekeeping,Unsafe Condition,Leg,4,Day,Prime Offshore Ltd,13.0,Under Investigation
+HSE-0044,2026-08-13,Gas Processing Plant,Logistics,Environmental Release, HIGH ,Working at Height,Unsafe Condition,N/A,0,Day,Prime Offshore Ltd,44.0,Open
+HSE-0255,2025-11-09,Offshore Platform B,Logistics,Property Damage,Medium,Hot Work,Procedure Not Followed,N/A,0,Day,In-house,44.0,Pending Corrective Action
+HSE-0049,2025-08-15,Gas Processing Plant,Security,Near Miss,Low,Hot Work,Procedure Not Followed,N/A,0,Night,Prime Offshore Ltd,23.0,Pending Corrective Action
+HSE-0036,2026-07-25,Offshore Platform A,,Near Miss,Low,Material Handling,Unknown,N/A,0,Day, Westline Engineering ,36.0,Pending Corrective Action
+HSE-0060,2025-12-04,Gas Processing Plant,Security,First Aid,Low,Lifting Operation,Unknown,Multiple,0,Day,Nigerian Marine Support,420,Closed
+HSE-0144,2025-07-24, offshore Platform B,Drilling,near miss,Low,Routine Inspection,Unknown,N/A,0,Day,In-house,12.0,Pending Corrective Action
+HSE-0054,2026-03-30,Offshore Platform B,Marine,Medical Treatment,Medium,Lifting Operation,Equipment Failure,Eye,0,Day,Nigerian Marine Support,6.0,Under Investigation
+HSE-0021,2025-09-29,Gas Processing Plant,MAINTENANCE,Medical Treatment,Medium,Driving,Procedure Not Followed,Hand,0,Day,Nigerian Marine Support,37.0,Open
+HSE-0125,2025-03-30,Onshore Base,Drilling,First Aid,Medium,Housekeeping,Weather,N/A,0,Night,Nigerian Marine Support,3.0,Closed
+HSE-0143,2025-02-21,Pipeline Operations,Maintenance,Medical Treatment,High,Routine Inspection,Unsafe Condition,Multiple,2,Night,Westline Engineering,1.0,Under Investigation
+HSE-0111,2026-04-05,Pipeline Operations,Operations,Property Damage, HIGH ,Routine Inspection,Equipment Failure,N/A,0,Night,In-house,8.0,Closed
+HSE-0237,2025-09-20,ONSHORE BASE,Security,Near Miss,Low,Lifting Operation,Procedure Not Followed,N/A,0,Night,In-house,18.0,Closed
+HSE-0077,2026-07-29,Offshore Platform B,HSE,NEAR-MISS,Low,Equipment Maintenance,Inadequate Training,N/A,0,Day,In-house,8.0,Investigation
+HSE-0274,2026-09-18,Gas Processing Plant,Marine,First Aid,Low,Routine Inspection,Unknown,N/A,0,Day,Prime Offshore Ltd,27.0,Pending Corrective Action
+HSE-0108,2026-09-12,Offshore Platform A,Marine,Near Miss,Low,Housekeeping,Unknown,N/A,0,Day,Prime Offshore Ltd,19.0,Open
+HSE-0094,2025-06-29,Offshore Platform A,Logistics,First Aid,medium,Working at Height,Weather,N/A,0,Day,Prime Offshore Ltd,28.0,Open
+HSE-0013,2026-04-08,Onshore Base,Maintenance,Near Miss,Low,Hot Work,Unsafe Condition,N/A,0,Day,In-house,41.0,Open
+HSE-0017,2025-04-11,Onshore Base,Security,Environmental Release,High,Routine Inspection,Unsafe Condition,N/A,0,Night,In-house,31.0,Under Investigation
+HSE-0048,2025-01-11,Pipeline Operations,Maintenance,Near Miss,Low,Lifting Operation,Procedure Not Followed,N/A,0,Day,Prime Offshore Ltd,29.0,OPEN
+HSE-0187,2025-06-28,Pipeline Operations,Maintenance,First Aid,Low,Lifting Operation,,Multiple,0,Day,Nigerian Marine Support,12.0,Pending Corrective Action
+HSE-0204,2025-03-14,Offshore Platform A,Logistics,Near Miss,Low,Equipment Maintenance,Unsafe Condition,N/A,0,Day,In-house,25.0,Under Investigation
+HSE-0259,2026-04-28,Offshore Platform A,Security,Near Miss,Low,Confined Space Entry,Unknown,N/A,0,Night,Westline Engineering,8.0,closed
+HSE-0120,20-Feb-2026,Offshore Platform B,Hse,Property Damage,Low,Material Handling,Unsafe Condition,N/A,0,Night,Prime Offshore Ltd,5.0,Under Investigation
+HSE-0022,2025-09-29,Offshore Platform A, Drilling ,Property Damage,Medium,Working at Height,Equipment Failure,N/A,0,Night,In-house,40.0,Open
+HSE-0147,2026-08-05,Offshore Platform A,Maintenance,Medical Treatment,High,Lifting Operation, Unknown ,N/A,0,Night,Delta Industrial Services,12.0,Under Investigation
+HSE-0179,2025-04-20,Offshore Platform A,Drilling,Near Miss,Low,Lifting Operation,Equipment Failure,N/A,0,Night,Prime Offshore Ltd,28.0,Under Investigation
+HSE-0084,2025-11-05,Gas Processing Plant,Security,Environmental Release,Medium,Routine Inspection,Procedure Not Followed,N/A,0,Day,In-house,32.0,Pending Corrective Action
+HSE-0131,2026-04-23,Onshore Base,Drilling,First Aid,Low,Material Handling,Unsafe Condition,Shoulder,0,Night,Delta Industrial Services,16.0,Under Investigation
+HSE-0160,2026-02-27,Gas Processing Plant,HSE,First Aid,Medium,Lifting Operation,Unsafe Act,Eye,0,Day,Prime Offshore Ltd,3.0,Closed
+HSE-0128,2025-06-22,Pipeline Operations,HSE,Near Miss,Low,Hot Work,Unknown,N/A,0,Night,Nigerian Marine Support,7.0,Closed
+HSE-0210, 2025-11-14 ,Onshore Base,HSE,Environmental Release,Medium,Material Handling,Weather,N/A,0,Day,In-house,20.0,Pending Corrective Action
+HSE-0222,2025-09-29,Onshore Base,Operations,Near Miss,Low,Driving,Unknown,N/A,0,Night,Westline Engineering,6.0,Under Investigation
+HSE-0074,2026-08-17,Offshore Platform B,Security,Near Miss,low,Driving,Equipment Failure,N/A,0,Night,Delta Industrial Services,17.0,Closed
+HSE-0230,2026-02-02,Offshore Platform B,Marine,Environmental Release,Major,Material Handling,Unsafe Act,N/A,0,Night,Nigerian Marine Support,38.0,Open
+HSE-0296,07-Apr-2026,Gas Processing Plant,Logistics,Near Miss,Low,Lifting Operation,Inadequate Training,N/A,0,Day,Prime Offshore Ltd,38.0,Open
+HSE-0031,2026-06-17,Pipeline Operations,Security,Lost Time Injury,High,Working at Height,Equipment Failure,Leg,21,Night,Westline Engineering,43.0,Open
+HSE-0124,2026-01-06,Pipeline Operations,Maintenance,Near Miss,Low,Working at Height,Unknown,N/A,0,Day,Nigerian Marine Support,15.0,Closed
+HSE-0034,2025-10-18,Pipeline Operations,Security,Medical Treatment,High,Hot Work,Unsafe Condition,N/A,0,Day,Westline Engineering,3.0,Under Investigation
+HSE-0257,2025-06-03,Pipeline Operations,Marine,near miss,Low,Routine Inspection,Unknown,N/A,0,Night,Prime Offshore Ltd,2.0,Pending Corrective Action
+HSE-0005,2026-04-10,Offshore Platform B,Maintenance,First Aid,Medium,Working at Height,Inadequate Training,Back,0,Night,Westline Engineering,35.0,Under Investigation
+HSE-0156,2026-04-17,Offshore Platform B,Maintenance,Near Miss,Low,Equipment Maintenance,Unsafe Condition,N/A,0,Day,Westline Engineering,5.0,Open
+HSE-0020,2026-02-18,Onshore Base,HSE,Near Miss,Low, Routine Inspection ,Weather,N/A,0,Night,Delta Industrial Services,17.0,Under investigation 
+HSE-0220,2025-08-31,Offshore Platform B,Drilling,Property Damage,Medium,Lifting Operation,,N/A,0,Day,Delta Industrial Services,15.0,Open
+HSE-0299,2026-08-10,Pipeline Operations,Logistics,First Aid,low,Equipment Maintenance,Equipment Failure,Back,0,Day,Delta Industrial Services,42.0,Under Investigation
+HSE-0150,2025-06-06,Gas Processing Plant,Security,Environmental Release,Medium,Hot Work,Procedure Not Followed,N/A,0,Night,In-house,34.0,Pending Corrective Action
+HSE-0225,2025-07-22,Gas Processing Plant,Marine,Near Miss,Low,Hot Work, Unsafe Condition ,N/A,0,Night,Westline Engineering,37.0,Pending Corrective Action
+HSE-0248,2026-07-03,Offshore Platform B,LOGISTICS,Near Miss,Low,Housekeeping,Weather,N/A,0,Night,In-house,26.0,Under Investigation
+HSE-0269,2025-07-26,Offshore Platform B,Security,First Aid,Medium,Material Handling,Unsafe Condition,N/A,0,Day,In-house,22.0,Under Investigation
+HSE-0152,2026-06-07,Gas Processing Plant,Marine,Near Miss,Low,Material Handling,Weather,N/A,0,Night,In-house,36.0,Pending Corrective Action
+HSE-0234,2026-05-14,Offshore Platform B,Maintenance,Lost Time Injury,High,Confined Space Entry,Inadequate Training,Back,25,Day,Nigerian Marine Support,5.0,Closed
+HSE-0011,2025-01-20,Onshore Base,Drilling,Property Damage,High,Driving,Unsafe Act,N/A,0,Day,Nigerian Marine Support,6.0,Pending Corrective Action
+HSE-0072,2025-08-31,GAS PROCESSING PLANT,HSE,first aid,Medium,Driving,Inadequate Training,N/A,0,Night,Prime Offshore Ltd,18.0,Open
+HSE-0253,2026-08-24,Pipeline Operations,Drilling,First Aid,Low,Driving,Inadequate Training,Eye,0,Day,Delta Industrial Services,4.0,Under Investigation
+HSE-0093,2026-02-09,Pipeline Operations,Operations,Near Miss,Low,Driving,Unsafe Act,N/A,0,Night,Westline Engineering,8.0,Open
+HSE-0193,05/19/2026,Gas Processing Plant,Security,Property Damage,Low,Housekeeping,Unsafe Act,N/A,0,Night,Delta Industrial Services,8.0,Closed
+HSE-0258,2026-03-05,Gas Processing Plant,Logistics,Lost Time Injury,High,Working at Height,Equipment Failure,Back,33,Night,In-house,20.0,Investigation
+HSE-0294,2025-06-21,Pipeline Operations,HSE,Near Miss,Low,Equipment Maintenance,Unsafe Act,N/A,0,Day,Delta Industrial Services,35.0,Pending Corrective Action
+HSE-0196,2025-12-26,Pipeline Operations,Security,First Aid,Low,Material Handling,Unknown,Back,0,Night,Prime Offshore Ltd,20.0,Closed
+HSE-0138,2026-05-07,Offshore Platform A,HSE,Medical Treatment,Medium,Lifting Operation,Unsafe Act,Back,0,Night,Delta Industrial Services,14.0,Closed
+HSE-0261,2025-02-25,Offshore Platform A,Maintenance,Environmental Release,Medium,Hot Work,Procedure Not Followed,N/A,0,Night,Delta Industrial Services,6.0,Pending Corrective Action
+HSE-0039,2025-03-05,OFFSHORE PLATFORM A,Marine,First Aid,Medium,Routine Inspection,Unknown,Multiple,0,Day,Westline Engineering,20.0,Pending Corrective Action
+HSE-0202,2025-04-06,Offshore Platform B,Drilling,Near Miss,Low,Material Handling,Unsafe Condition,N/A,0,Day,In-house,28.0,Open
+HSE-0190,2026-04-14,Pipeline Operations, Maintenance ,Property Damage,Medium, Driving ,Weather,N/A,0,Day,Prime Offshore Ltd,4.0,Closed
+HSE-0252,2026-04-13,Onshore Base,Drilling,Lost Time Injury,High,Driving,Equipment Failure,N/A,2,Day,Westline Engineering,16.0,Closed
+HSE-0113,2025-01-02,Pipeline Operations, Drilling ,Near Miss, LOW ,Lifting Operation,Unsafe Act,N/A,0,Day,Westline Engineering,25.0,Pending Corrective Action
+HSE-0184,2026-03-17, Onshore Base , Operations ,Near Miss,Low,Working at Height,Weather,N/A,0,Night,In-house,30.0,Under Investigation
+HSE-0153,2026-02-10,Offshore Platform B,Marine,Near Miss,Low,Working at Height,Weather,N/A,0,Day,In-house,45.0,Open
+HSE-0192,2025-05-24,Offshore Platform A,Drilling,Property Damage,Medium,Routine Inspection,Unknown,N/A,0,Night,Westline Engineering,13.0,Pending Corrective Action
+HSE-0045,2026-06-30,Gas Processing Plant,Security,First Aid,Medium,Confined Space Entry,Inadequate Training,Shoulder,0,Night, Delta Industrial Services ,7.0,Pending Corrective Action
+HSE-0276,2026-01-30,OFFSHORE PLATFORM A,Marine,Property Damage,Medium,Routine Inspection,Unsafe Condition,N/A,0,Night,Delta Industrial Services,5.0,Pending Corrective Action
+HSE-0007,2025-05-27,Offshore Platform B,Maintenance,Near Miss,Low,Confined Space Entry,Weather,N/A,0,Day,Nigerian Marine Support,24.0,Under Investigation
+HSE-0251,2026-06-12,Offshore Platform A,Operations,Near Miss,Low,Confined Space Entry,Procedure Not Followed,N/A,0,Day,In-house,13.0,Open
+HSE-0076,2026-02-09,Onshore Base,Drilling,First Aid,Medium,Housekeeping,Equipment Failure,N/A,0,Day,Nigerian Marine Support,7.0,Under Investigation
+HSE-0001,2025-04-25,Onshore Base,Security,Near Miss,Low,Working at Height,Unsafe Act,N/A,0,Day, Delta Industrial Services ,3.0,open
+HSE-0069,2025-06-20,Offshore Platform B,Operations,Near Miss,Low,Routine Inspection,Equipment Failure,N/A,0,Day,,16.0,Pending Corrective Action
+HSE-0168,2025-10-09,Pipeline Operations,Drilling,Near Miss,Low,Lifting Operation,Unknown,N/A,0,Night,Prime Offshore Ltd,16.0,Under Investigation
+HSE-0219,02/27/2026,Offshore Platform B,Logistics,Environmental Release,High,Equipment Maintenance,Weather,N/A,0,Night,Delta Industrial Services,5.0,Open
+HSE-0043,10-May-2025,Gas Processing Plant,Security,Near Miss,Low,Working at Height,Procedure Not Followed,N/A,0,Day,Prime Offshore Ltd,4.0,Closed
+HSE-0073,2025-08-24,Pipeline Operations,Marine,First Aid,Medium,Working at Height,Weather,Leg,0,Night,In-house,41.0,Open
+HSE-0024,2026-05-16,Offshore Platform B, Marine ,Near Miss,Low,Lifting Operation,Unknown,N/A,0,Night,Nigerian Marine Support,6.0,Closed
+HSE-0186, 2025-04-10 ,Gas Processing Plant,Security,lost time injury,High,Hot Work,Unsafe Condition,Back,2,Day,Nigerian Marine Support,22.0,Open
+HSE-0104,2026-06-24,Onshore Base,Security,Medical Treatment,High,Confined Space Entry, Equipment Failure ,Eye,0,Day,Delta Industrial Services,22.0,Pending Corrective Action
+HSE-0212,2025-12-22,Pipeline Operations,HSE,Property Damage,High,Driving,Unsafe Act,N/A,0,Night,Westline Engineering,8.0,Open
+HSE-0068,2026-01-25,Offshore Platform B,Security,Lost Time Injury,High,Housekeeping,Unknown,Hand,15,Day,Westline Engineering,6.0,Pending Corrective Action
+HSE-0026,2026-01-09,Onshore Base,Drilling,Near Miss,Low,Working at Height,Inadequate Training,N/A,0,Day,Delta Industrial Services,40.0,Under Investigation
+HSE-0197,2025-10-24,Pipeline Operations,Drilling,Environmental Release,Medium, Confined Space Entry ,Inadequate Training,N/A,0,Day,Delta Industrial Services,18.0,Under Investigation
+HSE-0176,2026-03-18,Gas Processing Plant,HSE,Medical Treatment,Medium,Lifting Operation,Unsafe Condition,N/A,0,Night,Westline Engineering,21.0,Pending Corrective Action
